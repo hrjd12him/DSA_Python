@@ -1,0 +1,11 @@
+here we have the heap short:-
+
+how does it work in real life is it will create a heap and presue trhe up[ heapify ] or perculate up in trhis
+process we have the make a two properties what are they :-
+
+1. mantain a complete binary tree(CBT)
+2. which meanse there chaild node can be empty and other should be feild completly
+3. the inserting of the data should from the left to right from the node if any parent node is empty and child node are fild then its
+   note the CBT and itr wont satify the requirement of a head
+
+4. it should follow the heapify order property that means max heap and min heap
